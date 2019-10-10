@@ -1,4 +1,4 @@
-# RestrictedBoltzmannMachine
+# Restricted Boltzmann Machine
 
 Exploring Basic Concepts of RBM
 
